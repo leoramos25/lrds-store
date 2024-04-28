@@ -1,0 +1,6 @@
+@LeoStore.Identidade.Api_HostAddress = http://localhost:5121
+
+GET {{LeoStore.Identidade.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
